@@ -1,0 +1,11 @@
+﻿{
+  //"outputPath": "\\\\10.31.48.31\\Reports\\_GHPReporter_NUnit_Report",
+  "outputPath": "C:\\_GHPReporter_NUnit_Report",
+  "sprint": "",
+  "runName": "",
+  "runGuid": "",
+  //"runGuid": "8833749C-B059-4378-A9E3-264EDE237A7C",
+  "realTimeGeneration": "True",
+  "runsToDisplay": "5",
+  "testsToDisplay": "5"
+}
